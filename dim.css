@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.heading{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+li{
+    display: inline-block;
+    color: gray;
+}
+li:hover{
+    color: white;
+    cursor: pointer;
+}
+.box{
+    display: inline-block;
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    margin-top: 10px;
+    width: 220px;
+    text-align: center;
+    
+    
+}
+.products{
+
+    background-color:coral;
+    
+    text-align: center;
+}
+.dog:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+.contact{
+    text-align: center;
+    margin-top: 10px;
+}
+.mom:hover{
+    cursor: pointer;
+}
